@@ -37,7 +37,7 @@
  }
  
  p {
-   margin: 0 0 30px;
+   margin: 0 0 10px;
  }
  
  ul li {
@@ -726,6 +726,7 @@
 .four h3 {
   padding-top: 40px;
   padding-bottom: 40px;
+  padding-left: 10px;
 }
 
 .chiefguest {
