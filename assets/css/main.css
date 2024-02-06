@@ -803,12 +803,12 @@
   color: #000;
 }
 
-.separator {
+/* .separator {
   width: 200px;
   height: 3px;
   background-color: #f68317;
   margin: 10px auto;
-}
+} */
 
 .carousel {
   display: flex;
@@ -838,3 +838,5 @@
 .sponsorship-button:hover {
   background-color: #721f1f;
 }
+
+
